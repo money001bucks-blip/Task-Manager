@@ -1,0 +1,4 @@
+1 | Be happy |Life | 10 | 0
+2 | Buy milk |Food | 6 | 0
+3 | Go to gym |Health | 8 | 0
+4 | Be alone |self-growth | 9 | 0
